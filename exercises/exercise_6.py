@@ -2,5 +2,6 @@
 # Your solution comes here
 a = int(input())
 b = int(input())
-result = "Yes" if a % b == 0 else "No"
+result = "YES" if a % b == 0 else "NO"
+
 print(result)
